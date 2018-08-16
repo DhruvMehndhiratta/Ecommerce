@@ -1,0 +1,27 @@
+{
+  "name": "admin-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "classnames": "^2.2.5",
+    "is_js": "^0.9.0",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-sidebar": "0.0.1",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "react-search-bar": "^2.2.0",
+    "react-sidenav": "^2.1.2",
+    "reactstrap": "^5.0.0-beta"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
